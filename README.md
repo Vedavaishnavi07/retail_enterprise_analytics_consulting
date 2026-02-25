@@ -1,2 +1,2 @@
 # retail_enterprise_analytics_consulting
-Enterprise retail analytics project using SQL, Python, Power BI (Executive dashboard + consulting insights).
+Enterprise-level retail analytics consulting simulation delivering SQL-based data modeling, KPI engineering, Python-driven EDA, and executive Power BI dashboards with strategic business insights.
